@@ -1,0 +1,25 @@
+jails:
+  eternal:
+    world: c0654828-629c-4d19-a6cd-149c8afb9e68
+    world-name: world
+    x: 442.3318
+    y: 56.2
+    z: 421.0153
+    yaw: 33.111663818359375
+    pitch: 80.54537963867188
+  eternal_jail:
+    world: c0654828-629c-4d19-a6cd-149c8afb9e68
+    world-name: world
+    x: 441.3
+    y: 55.0
+    z: 421.7
+    yaw: -145.68545532226562
+    pitch: 85.0494384765625
+  fordongho455:
+    world: c0654828-629c-4d19-a6cd-149c8afb9e68
+    world-name: world
+    x: 1340.7
+    y: 73.0
+    z: 1389.7
+    yaw: -131.31341552734375
+    pitch: 79.8314208984375

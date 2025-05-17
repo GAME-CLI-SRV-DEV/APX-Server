@@ -1,0 +1,455 @@
+{
+  "versionInfo" : {
+    "name" : "Geyser",
+    "version" : "2.6.2-b793 (git-master-baac979)",
+    "javaName" : "OpenJDK 64-Bit Server VM",
+    "javaVendor" : "Azul Systems, Inc.",
+    "javaVersion" : "23.0.2+7",
+    "architecture" : "amd64",
+    "operatingSystem" : "Windows 10",
+    "operatingSystemVersion" : "10.0",
+    "network" : {
+      "dockerCheck" : false,
+      "internalIP" : "***"
+    },
+    "mcInfo" : {
+      "bedrockVersions" : [
+                "1.21.40 - 1.21.44",
+                "1.21.50 - 1.21.51",
+                "1.21.60 - 1.21.62",
+                "1.21.70"
+            ],
+      "bedrockProtocols" : [
+                748,
+                766,
+                776,
+                786
+            ],
+      "defaultBedrockProtocol" : 786,
+      "javaVersions" : [
+                "1.21.4"
+            ],
+      "javaProtocol" : 769
+    }
+  },
+  "cpuCount" : 6,
+  "cpuName" : "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+  "systemLocale" : "ko_KR",
+  "systemEncoding" : "UTF-8",
+  "gitInfo" : {
+    "buildNumber" : "793",
+    "git.commit.id.abbrev" : "baac979",
+    "git.commit.id" : "baac9795b74d339604a4b5613cae5820885c3350",
+    "git.branch" : "master",
+    "git.remote.origin.url" : "https://github.com/GeyserMC/Geyser"
+  },
+  "config" : {
+    "autoconfiguredRemote" : true,
+    "bedrock" : {
+      "address" : "0.0.0.0",
+      "port" : 25565,
+      "broadcast-port" : 25565,
+      "clone-remote-port" : true,
+      "motd1" : "Geyser",
+      "motd2" : "Another Geyser server.",
+      "server-name" : "Geyser",
+      "compression-level" : 6,
+      "enable-proxy-protocol" : true,
+      "proxy-protocol-whitelisted-ips" : [ ]
+    },
+    "remote" : {
+      "address" : "***",
+      "port" : 25565,
+      "auth-type" : "FLOODGATE",
+      "use-proxy-protocol" : true,
+      "forward-hostname" : false
+    },
+    "metrics" : {
+      "enabled" : true,
+      "uuid" : "70198864-e8d4-4879-b1fc-474c326fdcc1"
+    },
+    "disableCompression" : true,
+    "saved-user-logins" : [
+            "ThisExampleUsernameShouldBeLongEnoughToNeverBeAnXboxUsername",
+            "ThisOtherExampleUsernameShouldAlsoBeLongEnough"
+        ],
+    "floodgate-key-file" : "key.pem",
+    "command-suggestions" : true,
+    "passthrough-motd" : true,
+    "passthrough-player-counts" : true,
+    "legacy-ping-passthrough" : false,
+    "ping-passthrough-interval" : 3,
+    "forward-player-ping" : false,
+    "max-players" : 100,
+    "debug-mode" : false,
+    "allow-third-party-capes" : false,
+    "show-cooldown" : "title",
+    "show-coordinates" : true,
+    "disable-bedrock-scaffolding" : false,
+    "emote-offhand-workaround" : "DISABLED",
+    "allow-third-party-ears" : false,
+    "default-locale" : null,
+    "cache-images" : 0,
+    "allow-custom-skulls" : true,
+    "max-visible-custom-skulls" : 128,
+    "custom-skull-render-distance" : 32,
+    "add-non-bedrock-items" : true,
+    "above-bedrock-nether-building" : false,
+    "force-resource-packs" : true,
+    "xbox-achievements-enabled" : false,
+    "log-player-ip-addresses" : true,
+    "notify-on-new-bedrock-update" : true,
+    "unusable-space-block" : "minecraft:barrier",
+    "pending-authentication-timeout" : 120,
+    "scoreboard-packet-threshold" : 20,
+    "enable-proxy-connections" : false,
+    "mtu" : 1400,
+    "use-direct-connection" : true,
+    "disable-compression" : true,
+    "config-version" : 4
+  },
+  "floodgate" : {
+    "gitInfo" : null,
+    "config" : null
+  },
+  "userPlatforms" : { },
+  "connectionAttempts" : 0,
+  "hashInfo" : {
+    "md5Hash" : "481151ec69beac1c58507a2979b78dea",
+    "sha256Hash" : "9fd67b0881035a7e52459b85abcd3ce94b02bc93c1d026c25d5941c06c8f05ef"
+  },
+  "ramInfo" : {
+    "free" : 7081,
+    "total" : 8192,
+    "max" : 8192
+  },
+  "logsInfo" : null,
+  "bootstrapInfo" : {
+    "platform" : {
+      "platformName" : "Spigot"
+    },
+    "platformName" : "NogyangSpigotCraftBukkit",
+    "platformVersion" : "1.21.4-DEV-e9ce664 (MC: 1.21.4)",
+    "platformAPIVersion" : "1.21.4-R0.1-SNAPSHOT",
+    "onlineMode" : true,
+    "serverIP" : "",
+    "serverPort" : 25565,
+    "plugins" : [
+            {
+        "enabled" : true,
+        "name" : "Vault",
+        "version" : "1.7.2-b107",
+        "main" : "net.milkbowl.vault.Vault",
+        "authors" : [
+                    "cereal",
+                    "Sleaker",
+                    "mung3r"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "ViaVersion",
+        "version" : "5.3.2",
+        "main" : "com.viaversion.viaversion.ViaVersionPlugin",
+        "authors" : [
+                    "_MylesC",
+                    "creeper123123321",
+                    "Gerrygames",
+                    "kennytv",
+                    "Matsv",
+                    "EnZaXD",
+                    "RK_01"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "PlaceholderAPI",
+        "version" : "2.11.6",
+        "main" : "me.clip.placeholderapi.PlaceholderAPIPlugin",
+        "authors" : [
+                    "HelpChat"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "WorldEdit",
+        "version" : "7.3.11-SNAPSHOT+7005-5bc41bc",
+        "main" : "com.sk89q.worldedit.bukkit.WorldEditPlugin",
+        "authors" : [
+                    "EngineHub"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "ClearLag",
+        "version" : "3.2.2",
+        "main" : "me.minebuilders.clearlag.Clearlag",
+        "authors" : [
+                    "bob7l"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "ViaBackwards",
+        "version" : "5.3.2",
+        "main" : "com.viaversion.viabackwards.BukkitPlugin",
+        "authors" : [
+                    "Matsv",
+                    "kennytv",
+                    "Gerrygames",
+                    "creeper123123321",
+                    "ForceUpdate1",
+                    "EnZaXD"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "Towny",
+        "version" : "0.101.1.0",
+        "main" : "com.palmergames.bukkit.towny.Towny",
+        "authors" : [
+                    "LlmDl",
+                    "Warrior"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "Slimefun",
+        "version" : "4.9-UNOFFICIAL",
+        "main" : "io.github.thebusybiscuit.slimefun4.implementation.Slimefun",
+        "authors" : [
+                    "The Slimefun 4 Community"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "ProtocolLib",
+        "version" : "5.3.0",
+        "main" : "com.comphenix.protocol.ProtocolLib",
+        "authors" : [
+                    "dmulloy2",
+                    "comphenix"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "floodgate",
+        "version" : "2.2.4-SNAPSHOT (b116-0e3163c)",
+        "main" : "org.geysermc.floodgate.SpigotPlugin",
+        "authors" : [
+                    "GeyserMC"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "Essentials",
+        "version" : "2.21.0-dev+160-e2295c1",
+        "main" : "com.earth2me.essentials.Essentials",
+        "authors" : [
+                    "Zenexer",
+                    "ementalo",
+                    "Aelux",
+                    "Brettflan",
+                    "KimKandor",
+                    "snowleo",
+                    "ceulemans",
+                    "Xeology",
+                    "KHobbits",
+                    "md_5",
+                    "Iaccidentally",
+                    "drtshock",
+                    "vemacs",
+                    "SupaHam",
+                    "mdcfe",
+                    "JRoy",
+                    "pop4959"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "VoxelSniper",
+        "version" : "6.1.2",
+        "main" : "com.thevoxelbox.voxelsniper.VoxelSniper",
+        "authors" : [
+                    "przerwap",
+                    "MikeMatrix",
+                    "Gavjenks",
+                    "giltwist",
+                    "psanker",
+                    "Deamon5550",
+                    "DivineRage"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "ViaRewind",
+        "version" : "4.0.7",
+        "main" : "com.viaversion.viarewind.BukkitPlugin",
+        "authors" : [
+                    "FlorianMichael/EnZaXD",
+                    "Gerrygames",
+                    "creeper123123321"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "VeinMiner",
+        "version" : "2.0.0",
+        "main" : "wtf.choco.veinminer.VeinMinerPlugin",
+        "authors" : [
+                    "Choco"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "SlashDupe",
+        "version" : "1.0.1",
+        "main" : "org.demdun.slashdupe.SlashDupe",
+        "authors" : [
+                    "Demdun"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "RotatoR",
+        "version" : "1.0.6",
+        "main" : "net.awesomepowered.rotator.RotatoR",
+        "authors" : [
+                    "LaxWasHere"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "RandomTP",
+        "version" : "2.3",
+        "main" : "backcab.RandomTP.RandomTP",
+        "authors" : [ ]
+      },
+            {
+        "enabled" : true,
+        "name" : "R01",
+        "version" : "8.4",
+        "main" : "teamzesa.R01",
+        "authors" : [
+                    "JAXPLE"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "PlugManX",
+        "version" : "2.4.1",
+        "main" : "com.rylinaux.plugman.PlugMan",
+        "authors" : [
+                    "rylinaux",
+                    "Entity303"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "ntdLuckyBlock",
+        "version" : "2.8.28",
+        "main" : "me.DenBeKKer.ntdLuckyBlock.LBMain",
+        "authors" : [
+                    "danirod12"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "NoMaxEnchants",
+        "version" : "1.0",
+        "main" : "org.dbenton.noMaxEnchants.NoMaxEnchants",
+        "authors" : [ ]
+      },
+            {
+        "enabled" : true,
+        "name" : "LunaChat",
+        "version" : "3.0.16",
+        "main" : "com.github.ucchyocean.lc3.LunaChatBukkit",
+        "authors" : [
+                    "ucchy",
+                    "YukiLeafX",
+                    "LazyGon",
+                    "tomo1560"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "NBTAPI",
+        "version" : "2.14.1",
+        "main" : "de.tr7zw.nbtapi.plugin.NBTAPI",
+        "authors" : [
+                    "tr7zw"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "InteractiveChat",
+        "version" : "4.2.16.0",
+        "main" : "com.loohp.interactivechat.InteractiveChat",
+        "authors" : [
+                    "loohp"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "Geyser-Spigot",
+        "version" : "2.6.2-SNAPSHOT",
+        "main" : "org.geysermc.geyser.platform.spigot.GeyserSpigotPlugin",
+        "authors" : [
+                    "GeyserMC"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "CustomJoinMessage",
+        "version" : "1.0.8",
+        "main" : "org.dark.customjoinmessage.CustomJoinMessage",
+        "authors" : [ ]
+      },
+            {
+        "enabled" : true,
+        "name" : "Citizens",
+        "version" : "2.0.37-SNAPSHOT (build 3703)",
+        "main" : "net.citizensnpcs.Citizens",
+        "authors" : [
+                    "fullwall"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "AutoMessage",
+        "version" : "2.5.5",
+        "main" : "com.TeamNovus.AutoMessage.AutoMessage",
+        "authors" : [
+                    "ELCHILEN0"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "AngelChest",
+        "version" : "13.6.1",
+        "main" : "de.jeff_media.angelchest.AngelChestMain",
+        "authors" : [
+                    "mfnalex",
+                    "JEFF Media GbR"
+                ]
+      },
+            {
+        "enabled" : true,
+        "name" : "32K",
+        "version" : "1.0",
+        "main" : "de.xilentcraft.thirtytwok.ThirtyTwoK",
+        "authors" : [
+                    "xilentcrafter"
+                ]
+      }
+        ]
+  },
+  "flagsInfo" : {
+    "flags" : [
+            "-Xms8G",
+            "-Xmx8G"
+        ]
+  },
+  "extensionInfo" : [ ]
+}

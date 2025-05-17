@@ -1,0 +1,3223 @@
+researches:
+  '0': true
+  '1': true
+  '4': true
+  '6': true
+  '15': true
+  '18': true
+  '30': true
+  '35': true
+  '38': true
+  '42': true
+  '50': true
+  '53': true
+  '86': true
+  '92': true
+  '94': true
+  '99': true
+  '102': true
+  '105': true
+  '106': true
+  '107': true
+  '108': true
+  '123': true
+  '125': true
+  '129': true
+  '132': true
+  '133': true
+  '134': true
+  '135': true
+  '136': true
+  '138': true
+  '143': true
+  '150': true
+  '239': true
+  '240': true
+  '242': true
+  '255': true
+  '95': true
+  '98': true
+  '261': true
+  '25': true
+  '32': true
+  '57': true
+  '77': true
+  '90': true
+  '101': true
+  '104': true
+  '118': true
+  '124': true
+  '126': true
+  '251': true
+  '265': true
+  '19': true
+  '20': true
+  '34': true
+  '36': true
+  '37': true
+  '41': true
+  '43': true
+  '45': true
+  '47': true
+  '48': true
+  '55': true
+  '115': true
+  '2': true
+  '5': true
+  '7': true
+  '8': true
+  '10': true
+  '12': true
+  '13': true
+  '33': true
+  '58': true
+  '67': true
+  '119': true
+  '149': true
+  '155': true
+  '156': true
+  '244': true
+  '246': true
+  '248': true
+  '254': true
+  '259': true
+  '263': true
+  '264': true
+  '16': true
+  '17': true
+  '21': true
+  '22': true
+  '23': true
+  '28': true
+  '59': true
+  '60': true
+  '61': true
+  '62': true
+  '63': true
+  '64': true
+  '65': true
+  '68': true
+  '69': true
+  '70': true
+  '71': true
+  '75': true
+  '76': true
+  '80': true
+  '81': true
+  '97': true
+  '116': true
+  '137': true
+  '146': true
+  '152': true
+  '160': true
+  '161': true
+  '162': true
+  '163': true
+  '192': true
+  '199': true
+  '202': true
+  '235': true
+  '241': true
+  '260': true
+  '267': true
+  '271': true
+  '276': true
+  '280': true
+  '31': true
+  '46': true
+  '52': true
+  '9': true
+  '11': true
+  '29': true
+  '51': true
+  '56': true
+  '96': true
+  '117': true
+  '142': true
+  '245': true
+  '257': true
+  '54': true
+  '72': true
+  '73': true
+  '84': true
+  '130': true
+  '151': true
+  '157': true
+  '164': true
+  '165': true
+  '215': true
+  '228': true
+  '237': true
+  '253': true
+  '120': true
+  '144': true
+  '145': true
+  '158': true
+  '159': true
+  '229': true
+  '249': true
+  '279': true
+  '14': true
+  '24': true
+  '26': true
+  '27': true
+  '40': true
+  '74': true
+  '79': true
+  '85': true
+  '87': true
+  '89': true
+  '93': true
+  '100': true
+  '103': true
+  '111': true
+  '121': true
+  '122': true
+  '127': true
+  '166': true
+  '176': true
+  '268': true
+  '281': true
+  '167': true
+  '168': true
+  '169': true
+  '170': true
+  '171': true
+  '172': true
+  '173': true
+  '174': true
+  '175': true
+  '182': true
+  '185': true
+  '188': true
+  '190': true
+  '193': true
+  '197': true
+  '198': true
+  '204': true
+  '207': true
+  '208': true
+  '209': true
+  '211': true
+  '214': true
+  '220': true
+  '227': true
+  '230': true
+  '231': true
+  '234': true
+  '243': true
+  '250': true
+  '252': true
+  '256': true
+  '258': true
+  '266': true
+  '269': true
+  '272': true
+  '275': true
+  '277': true
+  '177': true
+  '178': true
+  '179': true
+  '180': true
+  '181': true
+  '183': true
+  '184': true
+  '186': true
+  '187': true
+  '189': true
+  '191': true
+  '194': true
+  '195': true
+  '196': true
+  '200': true
+  '201': true
+  '203': true
+  '205': true
+  '206': true
+  '212': true
+  '213': true
+  '216': true
+  '217': true
+  '218': true
+  '219': true
+  '221': true
+  '222': true
+  '223': true
+  '224': true
+  '225': true
+  '226': true
+  '232': true
+  '233': true
+  '236': true
+  '247': true
+  '262': true
+  '273': true
+  '274': true
+  '278': true
+  '112': true
+  '270': true
+backpacks:
+  '0':
+    size: 54
+    contents:
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WOODEN_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 49
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: STONE_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 30
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:flame: 1
+          repair-cost: 1
+          Damage: 2
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Portable Dustbin","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          lore:
+          - '{"text":"","extra":[{"text":"Your portable Item-Destroyer","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '""'
+          - '{"text":"","extra":[{"text":"Right Click","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"yellow"},{"text":"
+            to open","italic":false,"color":"gray"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "PORTABLE_DUSTBIN"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: 44619b93-2c88-36db-a4e7-059eb33e50ab
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzJkNDEwNDJjZTk5MTQ3Y2MzOGNhYzllNDY3NDE1NzZlN2VlNzkxMjgzZTZmYWM4ZDMyOTJjYWUyOTM1ZjFmIn19fQ==
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ROTTEN_FLESH
+        amount: 6
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHER_STAR
+        amount: 64
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        amount: 64
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RED_BED
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        amount: 19
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Energized Energy Capacitor","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"green"}]}'
+          lore:
+          - '{"text":"","extra":[{"text":"Range: ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gray"},{"text":"6
+            blocks","italic":false,"color":"red"}]}'
+          - '""'
+          - '{"text":"","extra":[{"text":"End-Game Capacitor","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_red"}]}'
+          - '{"text":"","extra":[{"text":"⇨ ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_gray"},{"text":"⚡
+            ","italic":false,"color":"yellow"},{"text":"524288 J Capacity","italic":false,"color":"gray"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "ENERGIZED_CAPACITOR"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: 92bad373-3a0d-3070-9ed4-343eb1a7f766
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTEzNjFlNTc2YjQ5M2NiZmRmYWUzMjg2NjFjZWRkMWFkZDU1ZmFiNGU1ZWI0MThiOTJjZWJmNjI3NWY4YmI0In19fQ==
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Nether Ice Coolant Cell","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "NETHER_ICE_COOLANT_CELL"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: 2ab76a58-6756-3bf2-82af-ad4f4c441e96
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQzY2Q0MTI1NTVmODk3MDE2MjEzZTVkNmM3NDMxYjQ0OGI5ZTU2NDRlMWIxOWVjNTFiNTMxNmYzNTg0MGUwIn19fQ==
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Nether Star Reactor","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Runs on Nether Stars","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '{"text":"","extra":[{"text":"⇨ ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_gray"},{"text":"Must
+            be surrounded by Water","italic":false,"color":"aqua"}]}'
+          - '{"text":"","extra":[{"text":"⇨ ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_gray"},{"text":"Must
+            be supplied with Nether Ice Coolant Cells","italic":false,"color":"aqua"}]}'
+          - '""'
+          - '{"text":"","extra":[{"text":"End-Game Generator","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_red"}]}'
+          - '{"text":"","extra":[{"text":"⇨ ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_gray"},{"text":"⚡
+            ","italic":false,"color":"yellow"},{"text":"32768 J Buffer","italic":false,"color":"gray"}]}'
+          - '{"text":"","extra":[{"text":"⇨ ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_gray"},{"text":"⚡
+            ","italic":false,"color":"yellow"},{"text":"1024 J/s","italic":false,"color":"gray"}]}'
+          - '{"text":"","extra":[{"text":"⇨ ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_gray"},{"text":"Causes
+            nearby Entities to get Withered","italic":false,"color":"dark_red"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "NETHERSTAR_REACTOR"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: c7276f49-d851-3176-989b-c552b8d10a81
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTExZWQxZDFiMjViNjI0NjY1ZWNkZGRjM2QzYTVkZmYwYjlmMzVlM2RlNzdhMTJmNTE2ZTYwZmU4NTAxY2M4ZCJ9fX0=
+      '36':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TNT
+        amount: 64
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MACE
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OAK_LOG
+        amount: 2
+      '39':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: IRON_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:soul_speed: 1
+      '40':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHER_STAR
+        amount: 64
+      '41':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DISPENSER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: '{"text":"","extra":[{"text":"Ancient Pedestal","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"light_purple"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "ANCIENT_PEDESTAL"
+            }
+          blockMaterial: DISPENSER
+      '42':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ANVIL
+        amount: 64
+      '43':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: BONE
+        amount: 2
+      '44':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: VILLAGER_SPAWN_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: SPAWN_EGG
+          display-name: '{"text":"","extra":["Villagers654"]}'
+      '45':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GRASS_BLOCK
+      '46':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PIGLIN_SPAWN_EGG
+        amount: 64
+      '47':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHER_STAR
+        amount: 63
+      '48':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SPYGLASS
+      '49':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OAK_PLANKS
+        amount: 7
+      '50':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Energy Regulator","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Core Component of an Energy Network","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "ENERGY_REGULATOR"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: 71e40888-fc1a-3244-a840-8f7fbe4c71db
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDc4ZjJiN2U1ZTc1NjM5ZWE3ZmI3OTZjMzVkMzY0YzRkZjI4YjQyNDNlNjZiNzYyNzdhYWRjZDYyNjEzMzcifX19
+      '51':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_BLOCK
+      '52':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CYAN_TERRACOTTA
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Reactor Access Port","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_green"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Allows you to interact with a Reactor","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '{"text":"","extra":[{"text":"via Cargo Nodes, can also be used","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '{"text":"","extra":[{"text":"as a Buffer","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '""'
+          - '{"text":"","extra":[{"text":"⇨ ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_gray"},{"text":"Must
+            be placed ","italic":false,"color":"yellow"},{"text":"3 Blocks ","italic":false,"color":"green"},{"text":"above
+            the Reactor","italic":false,"color":"yellow"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "REACTOR_ACCESS_PORT"
+            }
+      '53':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        amount: 2
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CLAY_BALL
+        amount: 36
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 64
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: IRON_NUGGET
+        amount: 22
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CLAY_BALL
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 34
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAW_COPPER
+        amount: 12
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Carbon","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"yellow"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "CARBON"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: 4bc687af-19c0-394f-9f6b-583a40ffb86b
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGIzYTA5NWI2YjgxZTZiOTg1M2ExOTMyNGVlZGYwYmI5MzQ5NDE3MjU4ZGQxNzNiOGVmZjg3YTA4N2FhIn19fQ==
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Radiant Backpack","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"yellow"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Size: ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gray"},{"text":"54
+            (Double chest)","italic":false,"color":"yellow"}]}'
+          - '{"text":"","extra":[{"text":"ID: 00000000-0000-0000-0009-01f322b1b6b3#0","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gray"}]}'
+          - '""'
+          - '{"text":"","extra":[{"text":"Right Click","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"yellow"},{"text":"
+            to open","italic":false,"color":"gray"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "RADIANT_BACKPACK"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: f42cfef5-7285-3f57-b759-b0dc2f46141b
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDBjYjFlNjdiNTEyYWIyZDRiZjNkN2FjZTBlYWFmNjFjMzJjZDQ2ODFkZGMzOTg3Y2ViMzI2NzA2YTMzZmEifX19
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Compressed Carbon","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"red"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "COMPRESSED_CARBON"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: c6d007ca-2468-3161-8464-c338dba9e164
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzIxZDQ5NTE2NTc0OGQzMTE2Zjk5ZDZiNWJkNWQ0MmViOGJhNTkyYmNkZmFkMzdmZDk1ZjliNmMwNGEzYiJ9fX0=
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 8
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GUNPOWDER
+        amount: 52
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CAULDRON
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CLAY_BALL
+        amount: 64
+      '30':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ANDESITE
+        amount: 13
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Synthetic Diamond","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"aqua"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"This item can be used in a","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '{"text":"","extra":[{"text":"workbench and acts like a normal Diamond","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SYNTHETIC_DIAMOND"
+            }
+  '1':
+    size: 36
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CLAY_BALL
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        amount: 4
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: IRON_NUGGET
+        amount: 23
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 64
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GUNPOWDER
+        amount: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 64
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GOLD_INGOT
+        amount: 5
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Synthetic Diamond","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"aqua"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"This item can be used in a","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '{"text":"","extra":[{"text":"workbench and acts like a normal Diamond","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SYNTHETIC_DIAMOND"
+            }
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CRAFTING_TABLE
+        amount: 63
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        amount: 9
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Compressed Carbon","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"red"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "COMPRESSED_CARBON"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: c6d007ca-2468-3161-8464-c338dba9e164
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzIxZDQ5NTE2NTc0OGQzMTE2Zjk5ZDZiNWJkNWQ0MmViOGJhNTkyYmNkZmFkMzdmZDk1ZjliNmMwNGEzYiJ9fX0=
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PISTON
+        amount: 60
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DISPENSER
+        amount: 62
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHER_BRICK_FENCE
+        amount: 63
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: '{"text":"","extra":[{"text":"Slimefun Guide ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"green"},{"text":"(Chest
+            GUI)","italic":false,"color":"gray"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Right Click ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"yellow"},{"text":"⇨
+            ","italic":false,"color":"dark_gray"},{"text":"Browse Items","italic":false,"color":"gray"}]}'
+          - '{"text":"","extra":[{"text":"Shift + Right Click ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"yellow"},{"text":"⇨
+            ","italic":false,"color":"dark_gray"},{"text":"Open Settings / Credits","italic":false,"color":"gray"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_guide_mode": "SURVIVAL_MODE"
+            }
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DAYLIGHT_DETECTOR
+        amount: 18
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: '{"text":"","extra":[{"text":"Energized Solar Generator","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"yellow"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Works at Night","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"blue"}]}'
+          - '""'
+          - '{"text":"","extra":[{"text":"End-Game Generator","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_red"}]}'
+          - '{"text":"","extra":[{"text":"⇨ ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_gray"},{"text":"⚡
+            ","italic":false,"color":"yellow"},{"text":"0 J Buffer","italic":false,"color":"gray"}]}'
+          - '{"text":"","extra":[{"text":"⇨ ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_gray"},{"text":"⚡
+            ","italic":false,"color":"yellow"},{"text":"256 J/s (Day)","italic":false,"color":"gray"}]}'
+          - '{"text":"","extra":[{"text":"⇨ ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_gray"},{"text":"⚡
+            ","italic":false,"color":"yellow"},{"text":"128 J/s (Night)","italic":false,"color":"gray"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SOLAR_GENERATOR_4"
+            }
+          blockMaterial: DAYLIGHT_DETECTOR
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TRIDENT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:channeling: 255
+            minecraft:riptide: 255
+          Damage: 4
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIRT
+        amount: 35
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: BONE
+        amount: 3
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND_BLOCK
+        amount: 4
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 64
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PISTON
+        amount: 2
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SMOOTH_STONE_SLAB
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ELYTRA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 59
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: IRON_NUGGET
+        amount: 4
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND_BLOCK
+        amount: 59
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL_BLOCK
+        amount: 64
+      '30':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL_BLOCK
+        amount: 53
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL_BLOCK
+        amount: 64
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL_BLOCK
+        amount: 64
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 64
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 64
+  '2':
+    size: 54
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 33
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GRANITE
+        amount: 12
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ANDESITE
+        amount: 6
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIORITE
+        amount: 3
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: IRON_BARS
+        amount: 33
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MOSS_CARPET
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: STONE_BRICKS
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: IRON_DOOR
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MOSSY_STONE_BRICKS
+        amount: 2
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ROTTEN_FLESH
+        amount: 21
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 46
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: '{"text":"","extra":[{"text":"Slimefun Guide ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"green"},{"text":"(Chest
+            GUI)","italic":false,"color":"gray"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Right Click ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"yellow"},{"text":"⇨
+            ","italic":false,"color":"dark_gray"},{"text":"Browse Items","italic":false,"color":"gray"}]}'
+          - '{"text":"","extra":[{"text":"Shift + Right Click ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"yellow"},{"text":"⇨
+            ","italic":false,"color":"dark_gray"},{"text":"Open Settings / Credits","italic":false,"color":"gray"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_guide_mode": "SURVIVAL_MODE"
+            }
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: BONE
+        amount: 6
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_EYE
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_STONE
+        amount: 4
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        amount: 2
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 60
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OAK_FENCE
+        amount: 2
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        amount: 54
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Stone Chunk","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "STONE_CHUNK"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: 8e2955f5-ce1e-34ab-b773-0511aa5a148a
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAW_IRON
+        amount: 8
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 64
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 2
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND
+        amount: 4
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAW_COPPER
+        amount: 64
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SCULK_CATALYST
+        amount: 54
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 64
+      '39':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOWSTONE
+        amount: 16
+      '40':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT_AND_STEEL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 32
+      '41':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHER_BRICK_FENCE
+        amount: 64
+      '42':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND
+        amount: 59
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Synthetic Diamond","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"aqua"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"This item can be used in a","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '{"text":"","extra":[{"text":"workbench and acts like a normal Diamond","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SYNTHETIC_DIAMOND"
+            }
+      '43':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAW_COPPER
+        amount: 64
+      '45':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: LIME_WOOL
+        amount: 64
+      '46':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: IRON_INGOT
+        amount: 18
+      '47':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PORKCHOP
+        amount: 2
+      '48':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Red LuckyBlock","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_red"}]}'
+          lore:
+          - '{"text":"","extra":[{"text":"Place me :D","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gray"}]}'
+          custom: H4sIAAAAAAAA/+NiYOBg4M8pTc6uTMrJT86OL6ksSGVgLkpNYQAA2qpiERsAAAA=
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: 12345678-1234-1234-1234-00000000000e
+            name: ''
+            properties:
+            - name: textures
+              value: e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjk5NDJkZDEzMzhhYmVhZThiODI3NGE0MWFlMWRjZGYyYjdiZTQ0OWYyOGQ2YjY1MGVjMDZlNDkxZTcwZjU3MCJ9fX0=
+      '49':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Purple LuckyBlock","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_purple"}]}'
+          lore:
+          - '{"text":"","extra":[{"text":"Place me :D","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gray"}]}'
+          custom: H4sIAAAAAAAA/+NiYOBg4M8pTc6uTMrJT86OL6ksSGVgKygtKshJZQAAPE96iR4AAAA=
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: 12345678-1234-1234-1234-00000000000a
+            name: ''
+            properties:
+            - name: textures
+              value: e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmNmYjRlYmMzYmE0ZmVjMDRkODk3OGExNjYwYmI3Yzk4ZTk2MzQyZmYyYTIzOGFkYTlkZjJmNzRiZjAzMmI0MCJ9fX0=
+      '50':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAW_COPPER
+        amount: 64
+      '51':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAW_COPPER
+        amount: 64
+      '52':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"White LuckyBlock","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          lore:
+          - '{"text":"","extra":[{"text":"Place me :D","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gray"}]}'
+          custom: H4sIAAAAAAAA/+NiYOBg4M8pTc6uTMrJT86OL6ksSGVgLc/ILEllAAB1g5h+HQAAAA==
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: 12345678-1234-1234-1234-000000000000
+            name: ''
+            properties:
+            - name: textures
+              value: e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzhlMTZlN2ZmMTNkM2UzMGEzYTJiODM1YTg2ZmQwNWVjYmMwODkwOWY2MDU2ZGUxNjQ2ZmUyNWIzZGVmOTU4NCJ9fX0=
+      '53':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TARGET
+        amount: 8
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DISPENSER
+        amount: 64
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAW_COPPER
+        amount: 64
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAW_COPPER
+        amount: 64
+      '44':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAW_COPPER
+        amount: 3
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAW_COPPER
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAW_COPPER
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '30':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '36':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+  '3':
+    size: 54
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIRT
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WOODEN_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 49
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GRAVEL
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 20
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIRT
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT_AND_STEEL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 8
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: IRON_INGOT
+        amount: 26
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAIL
+        amount: 35
+      '39':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIRT
+        amount: 64
+      '47':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 64
+      '48':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: LEVER
+        amount: 47
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OAK_LOG
+        amount: 23
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: LADDER
+        amount: 6
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAW_COPPER
+        amount: 42
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLASS_BOTTLE
+        amount: 3
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: STICK
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENCHANTING_TABLE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: '{"text":"","extra":[{"text":"Ancient Altar","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"light_purple"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Multi-Block Altar for","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_purple"}]}'
+          - '{"text":"","extra":[{"text":"magical Crafting Processes","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_purple"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "ANCIENT_ALTAR"
+            }
+          blockMaterial: ENCHANTING_TABLE
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EMERALD
+        amount: 3
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CRIMSON_SIGN
+        amount: 2
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SPYGLASS
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TORCH
+        amount: 15
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: YELLOW_BED
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: IRON_NUGGET
+        amount: 3
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 35
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 5
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OAK_PLANKS
+        amount: 64
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OAK_STAIRS
+        amount: 3
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SPRUCE_DOOR
+        amount: 2
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OAK_STAIRS
+        amount: 64
+      '41':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: LEVER
+        amount: 64
+      '42':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: BOOK
+        amount: 2
+      '43':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 64
+      '50':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Carbon Chunk","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_red"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "CARBON_CHUNK"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: c6d007ca-2468-3161-8464-c338dba9e164
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzIxZDQ5NTE2NTc0OGQzMTE2Zjk5ZDZiNWJkNWQ0MmViOGJhNTkyYmNkZmFkMzdmZDk1ZjliNmMwNGEzYiJ9fX0=
+      '52':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: IRON_BARS
+        amount: 11
+      '53':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND_BLOCK
+        amount: 61
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIRT
+        amount: 16
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: YELLOW_BED
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: STRIPPED_OAK_LOG
+        amount: 16
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WHITE_TERRACOTTA
+        amount: 31
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OAK_PLANKS
+        amount: 64
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OAK_PLANKS
+        amount: 3
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WHITE_BANNER
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          item-name: '{"translate":"block.minecraft.ominous_banner"}'
+          ItemFlags:
+          - HIDE_ADDITIONAL_TOOLTIP
+          rarity: UNCOMMON
+          patterns:
+          - ==: Pattern
+            color: CYAN
+            pattern: minecraft:rhombus
+          - ==: Pattern
+            color: LIGHT_GRAY
+            pattern: minecraft:stripe_bottom
+          - ==: Pattern
+            color: GRAY
+            pattern: minecraft:stripe_center
+          - ==: Pattern
+            color: LIGHT_GRAY
+            pattern: minecraft:border
+          - ==: Pattern
+            color: BLACK
+            pattern: minecraft:stripe_middle
+          - ==: Pattern
+            color: LIGHT_GRAY
+            pattern: minecraft:half_horizontal
+          - ==: Pattern
+            color: LIGHT_GRAY
+            pattern: minecraft:circle
+          - ==: Pattern
+            color: BLACK
+            pattern: minecraft:border
+      '30':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MINECART
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WHEAT_SEEDS
+        amount: 4
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FEATHER
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 64
+      '36':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DISPENSER
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: '{"text":"","extra":[{"text":"Ancient Pedestal","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"light_purple"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Part of the Ancient Altar","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_purple"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "ANCIENT_PEDESTAL"
+            }
+          blockMaterial: DISPENSER
+      '49':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GRAVEL
+        amount: 64
+      '51':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE_STAIRS
+        amount: 8
+  '4':
+    size: 54
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: IRON_INGOT
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Magnesium Ingot","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"aqua"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "MAGNESIUM_INGOT"
+            }
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GUNPOWDER
+        amount: 2
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GRANITE
+        amount: 15
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Portable Dustbin","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          lore:
+          - '{"text":"","extra":[{"text":"Your portable Item-Destroyer","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '""'
+          - '{"text":"","extra":[{"text":"Right Click","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"yellow"},{"text":"
+            to open","italic":false,"color":"gray"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "PORTABLE_DUSTBIN"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: 44619b93-2c88-36db-a4e7-059eb33e50ab
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzJkNDEwNDJjZTk5MTQ3Y2MzOGNhYzllNDY3NDE1NzZlN2VlNzkxMjgzZTZmYWM4ZDMyOTJjYWUyOTM1ZjFmIn19fQ==
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Synthetic Diamond","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"aqua"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"This item can be used in a","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '{"text":"","extra":[{"text":"workbench and acts like a normal Diamond","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SYNTHETIC_DIAMOND"
+            }
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        amount: 3
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SPRUCE_SAPLING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Synthetic Sapphire","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"aqua"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"This item can be used in a","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '{"text":"","extra":[{"text":"workbench and acts like Lapis Lazuli","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SYNTHETIC_SAPPHIRE"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: a36f8d3f-399b-3e82-a488-6a35f4cfe4d5
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTM1MDMyZjRkN2QwMWRlOGVjOTlkODlmODcyMzAxMmQ0ZTc0ZmE3MzAyMmM0ZmFjZjFiNTdjN2ZmNmZmMCJ9fX0=
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OAK_SAPLING
+        amount: 2
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MOSSY_COBBLESTONE
+        amount: 12
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DAYLIGHT_DETECTOR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: '{"text":"","extra":[{"text":"Energized Solar Generator","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"yellow"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Works at Night","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"blue"}]}'
+          - '""'
+          - '{"text":"","extra":[{"text":"End-Game Generator","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_red"}]}'
+          - '{"text":"","extra":[{"text":"⇨ ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_gray"},{"text":"⚡
+            ","italic":false,"color":"yellow"},{"text":"0 J Buffer","italic":false,"color":"gray"}]}'
+          - '{"text":"","extra":[{"text":"⇨ ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_gray"},{"text":"⚡
+            ","italic":false,"color":"yellow"},{"text":"256 J/s (Day)","italic":false,"color":"gray"}]}'
+          - '{"text":"","extra":[{"text":"⇨ ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_gray"},{"text":"⚡
+            ","italic":false,"color":"yellow"},{"text":"128 J/s (Night)","italic":false,"color":"gray"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SOLAR_GENERATOR_4"
+            }
+          blockMaterial: DAYLIGHT_DETECTOR
+      '41':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Synthetic Emerald","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"aqua"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"This item can be used to","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '{"text":"","extra":[{"text":"trade with Villagers","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SYNTHETIC_EMERALD"
+            }
+      '43':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        amount: 37
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Energized Energy Capacitor","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"green"}]}'
+          lore:
+          - '{"text":"","extra":[{"text":"Range: ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gray"},{"text":"6
+            blocks","italic":false,"color":"red"}]}'
+          - '""'
+          - '{"text":"","extra":[{"text":"End-Game Capacitor","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_red"}]}'
+          - '{"text":"","extra":[{"text":"⇨ ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_gray"},{"text":"⚡
+            ","italic":false,"color":"yellow"},{"text":"524288 J Capacity","italic":false,"color":"gray"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "ENERGIZED_CAPACITOR"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: 92bad373-3a0d-3070-9ed4-343eb1a7f766
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTEzNjFlNTc2YjQ5M2NiZmRmYWUzMjg2NjFjZWRkMWFkZDU1ZmFiNGU1ZWI0MThiOTJjZWJmNjI3NWY4YmI0In19fQ==
+      '50':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ANDESITE
+        amount: 3
+      '53':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIRT
+        amount: 14
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: LAPIS_LAZULI
+        amount: 6
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EMERALD
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Synthetic Emerald","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"aqua"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"This item can be used to","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '{"text":"","extra":[{"text":"trade with Villagers","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SYNTHETIC_EMERALD"
+            }
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GOLD_NUGGET
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAW_COPPER
+        amount: 25
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: APPLE
+        amount: 2
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '42':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Lumber Axe","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          lore:
+          - '{"text":"","extra":[{"text":"Cuts down the whole Tree...","strikethrough":false,"obfuscated":false,"bold":false,"italic":true,"underlined":false,"color":"green"}]}'
+          enchants:
+            minecraft:sharpness: 255
+            minecraft:unbreaking: 255
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "LUMBER_AXE"
+            }
+      '39':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT_AND_STEEL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 6
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SUGAR
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Silver Dust","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SILVER_DUST"
+            }
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SAND
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SUGAR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Zinc Dust","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "ZINC_DUST"
+            }
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SAND
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CLAY_BALL
+        amount: 28
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND
+        amount: 20
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SUGAR
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Salt","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SALT"
+            }
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: REDSTONE
+        amount: 14
+      '30':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: IRON_INGOT
+        amount: 27
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 64
+      '36':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERRACK
+        amount: 62
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 46
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '40':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '44':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '45':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GUNPOWDER
+        amount: 2
+      '46':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '47':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 23
+      '48':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '49':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SPRUCE_LOG
+        amount: 58
+      '51':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '52':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+  '5':
+    size: 54
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '30':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '36':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '39':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '40':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '41':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '42':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '43':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '44':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '45':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '46':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '47':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 5
+      '48':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '49':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SPRUCE_SAPLING
+        amount: 11
+      '50':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SAND
+        amount: 12
+      '51':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OAK_PLANKS
+      '52':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '53':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Carbon Chunk","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"dark_red"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "CARBON_CHUNK"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: c6d007ca-2468-3161-8464-c338dba9e164
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzIxZDQ5NTE2NTc0OGQzMTE2Zjk5ZDZiNWJkNWQ0MmViOGJhNTkyYmNkZmFkMzdmZDk1ZjliNmMwNGEzYiJ9fX0=
+  '6':
+    size: 27
+  '7':
+    size: 54
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '40':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '41':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '42':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '43':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '49':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '50':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '51':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '52':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '53':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+  '8':
+    size: 54
+    contents:
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SPRUCE_LOG
+        amount: 64
+      '44':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SPRUCE_LOG
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIRT
+        amount: 5
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GRAVEL
+        amount: 5
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GRANITE
+        amount: 64
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 64
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLED_DEEPSLATE
+        amount: 47
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ANDESITE
+        amount: 29
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAW_GOLD
+        amount: 8
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SMOOTH_BASALT
+        amount: 29
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: IRON_INGOT
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Aluminum Ingot","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"aqua"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "ALUMINUM_INGOT"
+            }
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: IRON_INGOT
+        amount: 17
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOW_BERRIES
+        amount: 2
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND
+        amount: 9
+      '40':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 64
+      '51':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 36
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TUFF_BRICKS
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CHISELED_TUFF_BRICKS
+        amount: 28
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIORITE
+        amount: 22
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WAXED_COPPER_BLOCK
+        amount: 64
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TUFF_BRICKS
+        amount: 64
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: POLISHED_TUFF
+        amount: 19
+      '46':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: REDSTONE
+        amount: 17
+      '47':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WAXED_COPPER_BLOCK
+        amount: 64
+      '48':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WAXED_COPPER_BLOCK
+        amount: 35
+  '9':
+    size: 54
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOW_LICHEN
+        amount: 5
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLED_DEEPSLATE
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TUFF_BRICKS
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TUFF
+        amount: 11
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CHISELED_TUFF_BRICKS
+        amount: 9
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TUFF_BRICKS
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WAXED_COPPER_GRATE
+        amount: 3
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: LADDER
+        amount: 9
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WAXED_COPPER_BLOCK
+        amount: 15
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: AMETHYST_BLOCK
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAW_IRON
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND
+        amount: 3
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GRAVEL
+        amount: 3
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 9
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SMOOTH_BASALT
+        amount: 20
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COD
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TUFF_BRICKS
+        amount: 64
+      '39':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOW_BERRIES
+        amount: 2
+      '41':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TUFF_BRICKS
+        amount: 64
+      '51':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLED_DEEPSLATE
+        amount: 7
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GRAVEL
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIRT
+        amount: 30
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: STICK
+        amount: 2
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GRANITE
+        amount: 8
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TUFF_BRICKS
+        amount: 28
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ANDESITE
+        amount: 18
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MOSS_BLOCK
+        amount: 8
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WAXED_OXIDIZED_COPPER
+        amount: 8
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLED_DEEPSLATE
+        amount: 64
+      '43':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WAXED_EXPOSED_COPPER_BULB
+      '44':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 17
+      '45':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: POLISHED_TUFF
+        amount: 14
+      '52':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SPRUCE_LOG
+        amount: 61
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SANDSTONE
+        amount: 14
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GUNPOWDER
+        amount: 21
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SPONGE
+        amount: 63
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: REDSTONE
+        amount: 4
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 3
+      '47':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 64
+      '30':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SUGAR
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Zinc Dust","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "ZINC_DUST"
+            }
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WAXED_COPPER_BLOCK
+        amount: 64
+      '36':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLASS
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 60
+      '40':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIORITE
+        amount: 21
+      '50':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOWSTONE_DUST
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Copper Dust","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "COPPER_DUST"
+            }
+      '53':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SAND
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CALCITE
+        amount: 45
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOWSTONE_DUST
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Gold Dust","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "GOLD_DUST"
+            }
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SUGAR
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Aluminum Dust","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "ALUMINUM_DUST"
+            }
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: BONE
+        amount: 4
+  '10':
+    size: 54
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WAXED_COPPER_BLOCK
+        amount: 39
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GUNPOWDER
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Lead Dust","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "LEAD_DUST"
+            }
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLED_DEEPSLATE
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TUFF_BRICKS
+        amount: 64
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MOSS_BLOCK
+        amount: 3
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GUNPOWDER
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Iron Dust","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "IRON_DUST"
+            }
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 57
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT
+        amount: 64
+      '42':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND
+        amount: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Synthetic Diamond","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"aqua"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"This item can be used in a","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '{"text":"","extra":[{"text":"workbench and acts like a normal Diamond","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SYNTHETIC_DIAMOND"
+            }
+      '49':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CHISELED_TUFF_BRICKS
+        amount: 3
+  '11':
+    size: 54
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Lumber Axe","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          lore:
+          - '{"text":"","extra":[{"text":"Cuts down the whole Tree...","strikethrough":false,"obfuscated":false,"bold":false,"italic":true,"underlined":false,"color":"green"}]}'
+          enchants:
+            minecraft:unbreaking: 255
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "LUMBER_AXE"
+            }
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Explosive Pickaxe","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"yellow"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Allows you to mine a good bit","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '{"text":"","extra":[{"text":"of Blocks at once...","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '""'
+          - '{"text":"","extra":[{"text":"Works with Fortune","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"blue"}]}'
+          enchants:
+            minecraft:unbreaking: 255
+          Damage: 154
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "EXPLOSIVE_PICKAXE"
+            }
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAW_COPPER_BLOCK
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: REDSTONE
+        amount: 15
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":["test"]}'
+          lore:
+          - '{"text":"","extra":[{"text":"A portable Crafting Table","strikethrough":false,"obfuscated":false,"bold":false,"italic":true,"underlined":false,"color":"green"}]}'
+          - '""'
+          - '{"text":"","extra":[{"text":"Right Click","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"yellow"},{"text":"
+            to open","italic":false,"color":"gray"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "PORTABLE_CRAFTER"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: bf9f1fb2-ced3-33ca-9d58-eb76edcbfa78
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzJlYzRhNGJkOGE1OGY4MzYxZjhhMDMwM2UyMTk5ZDMzZDYyNGVhNWY5MmY3Y2IzNDE0ZmVlOTVlMmQ4NjEifX19
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        amount: 29
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Stone Chunk","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "STONE_CHUNK"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: 8e2955f5-ce1e-34ab-b773-0511aa5a148a
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOW_LICHEN
+        amount: 4
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SUGAR
+        amount: 53
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Aluminum Dust","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "ALUMINUM_DUST"
+            }
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: IRON_INGOT
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Aluminum Ingot","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"aqua"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "ALUMINUM_INGOT"
+            }
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: IRON_INGOT
+        amount: 21
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 64
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: IRON_INGOT
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Aluminum Ingot","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"aqua"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "ALUMINUM_INGOT"
+            }
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64

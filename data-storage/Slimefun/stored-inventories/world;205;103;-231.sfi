@@ -1,0 +1,14 @@
+preset: REACTOR_ACCESS_PORT
+'49':
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: GREEN_WOOL
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"text":"","extra":[{"text":"Reactor","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gray"}]}'
+    lore:
+    - '""'
+    - '{"text":"","extra":[{"text":"Detected","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+    - '""'
+    - '{"text":"","extra":[{"text":"> Click to view Reactor","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gray"}]}'

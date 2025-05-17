@@ -1,0 +1,35 @@
+preset: IRON_GOLEM_ASSEMBLER
+'19':
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: CARVED_PUMPKIN
+  amount: 2
+'22':
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: REDSTONE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"text":"","extra":[{"text":"Enabled: ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gray"},{"text":"✔","italic":false,"color":"dark_green"}]}'
+    lore:
+    - '""'
+    - '{"text":"","extra":[{"text":"> Click to disable this Machine","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"yellow"}]}'
+'25':
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: IRON_BLOCK
+  amount: 8
+'31':
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: PISTON
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"text":"","extra":[{"text":"Offset: ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gray"},{"text":"3.0
+      Block(s)","italic":false,"color":"dark_aqua"}]}'
+    lore:
+    - '""'
+    - '{"text":"","extra":[{"text":"Left Click: ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"},{"text":"+0.1","italic":false,"color":"gray"}]}'
+    - '{"text":"","extra":[{"text":"Right Click: ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"},{"text":"-0.1","italic":false,"color":"gray"}]}'

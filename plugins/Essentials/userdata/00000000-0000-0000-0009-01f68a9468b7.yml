@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: true
+jailed: true
+ip-address: 127.236.12.113
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1741426151578
+  lastheal: 0
+  mute: 1841426114098
+  jail: 0
+  onlinejail: 0
+  logout: 1741426180998
+  login: 1741425946443
+money: '0'
+last-account-name: .Ehdgh456
+lastlocation:
+  world: c0654828-629c-4d19-a6cd-149c8afb9e68
+  world-name: world
+  x: 2265.0
+  y: 61.47189
+  z: 2919.0
+  yaw: -1.52587890625E-5
+  pitch: 0.0
+logoutlocation:
+  world: c0654828-629c-4d19-a6cd-149c8afb9e68
+  world-name: world
+  x: -42.23487
+  y: 167.93344
+  z: -5.5011206
+  yaw: 17.14996337890625
+  pitch: 73.05274963378906
+jail: fordongho455

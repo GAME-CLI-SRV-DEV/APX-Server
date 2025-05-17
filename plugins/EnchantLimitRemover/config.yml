@@ -1,0 +1,11 @@
+# Maximum enchantment level allowed (default: 10)
+max-enchant-level: 32767
+
+# List of disabled enchantments
+disabled-enchantments: []
+
+# Whether to show enchantment messages
+show-messages: true
+
+# Debug mode (prints more information to console)
+debug: false

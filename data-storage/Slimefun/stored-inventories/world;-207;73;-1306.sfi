@@ -1,0 +1,6 @@
+preset: COAL_GENERATOR
+'20':
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: COAL
+  amount: 40

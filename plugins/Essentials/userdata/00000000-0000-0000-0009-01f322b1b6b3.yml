@@ -1,0 +1,159 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 1.239.55.77
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1746005705582
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747145883962
+  login: 1747125611992
+money: '0.0'
+logoutlocation:
+  world: c0654828-629c-4d19-a6cd-149c8afb9e68
+  world-name: world
+  x: -310.33737
+  y: 79.59938
+  z: 257.418
+  yaw: -59.37950897216797
+  pitch: 33.30224609375
+last-account-name: .CensingSmile123
+homes:
+  hello:
+    world: 394eedee-ea9d-457e-a319-299da3f1379f
+    world-name: world_nether
+    x: 13.019003
+    y: 57.15
+    z: -24.58369
+    yaw: 88.1898193359375
+    pitch: 18.185470581054688
+  two:
+    world: 394eedee-ea9d-457e-a319-299da3f1379f
+    world-name: world_nether
+    x: 455.33316
+    y: 108.88026
+    z: -393.0456
+    yaw: 30.738815307617188
+    pitch: 73.6165771484375
+  home300:
+    world: c0654828-629c-4d19-a6cd-149c8afb9e68
+    world-name: world
+    x: 486.6446
+    y: 63.0
+    z: 393.8376
+    yaw: -175.22372436523438
+    pitch: 52.75035095214844
+  jail:
+    world: c0654828-629c-4d19-a6cd-149c8afb9e68
+    world-name: world
+    x: 698.916
+    y: 82.37499
+    z: 234.06625
+    yaw: -14.957611083984375
+    pitch: 56.187225341796875
+  minerware:
+    world: c0654828-629c-4d19-a6cd-149c8afb9e68
+    world-name: world
+    x: -76.580444
+    y: 68.8
+    z: -2.1649537
+    yaw: 84.73983764648438
+    pitch: 1.75726318359375
+  minerware2:
+    world: c0654828-629c-4d19-a6cd-149c8afb9e68
+    world-name: world
+    x: -58.44298
+    y: 119.775
+    z: -6.2122474
+    yaw: 33.585693359375
+    pitch: 18.76702880859375
+  7granddad:
+    world: c0654828-629c-4d19-a6cd-149c8afb9e68
+    world-name: world
+    x: 259.19067
+    y: 130.0
+    z: 168.3723
+    yaw: -153.2384033203125
+    pitch: -26.016555786132812
+  greatstrong:
+    world: c0654828-629c-4d19-a6cd-149c8afb9e68
+    world-name: world
+    x: 984.1963
+    y: -32.0
+    z: 1346.5112
+    yaw: 121.7855224609375
+    pitch: 51.708892822265625
+  netherhome:
+    world: 394eedee-ea9d-457e-a319-299da3f1379f
+    world-name: world_nether
+    x: 143.42114
+    y: 51.0
+    z: 166.27884
+    yaw: -23.55047607421875
+    pitch: 58.891082763671875
+  bedrockhome:
+    world: c0654828-629c-4d19-a6cd-149c8afb9e68
+    world-name: world
+    x: 1249.9438
+    y: 103.0
+    z: 1556.69999
+    yaw: -110.01615905761719
+    pitch: 29.141342163085938
+  spawn:
+    world: c0654828-629c-4d19-a6cd-149c8afb9e68
+    world-name: world
+    x: -8.421941
+    y: 228.27425
+    z: 1.4052291
+    yaw: -29.2003173828125
+    pitch: 88.85842895507812
+  portal1:
+    world: 394eedee-ea9d-457e-a319-299da3f1379f
+    world-name: world_nether
+    x: 156.95447
+    y: 113.0
+    z: 210.30001
+    yaw: 138.45370483398438
+    pitch: 46.501068115234375
+  abandonedtrainstation:
+    world: c0654828-629c-4d19-a6cd-149c8afb9e68
+    world-name: world
+    x: 1636.205
+    y: -11.83347
+    z: 1822.8341
+    yaw: 140.46084594726562
+    pitch: 5.8795166015625
+  abandonedrails:
+    world: c0654828-629c-4d19-a6cd-149c8afb9e68
+    world-name: world
+    x: 1632.8313
+    y: -18.13343
+    z: 1856.5332
+    yaw: 31.751373291015625
+    pitch: 41.640228271484375
+  abandonedtraincoaches:
+    world: c0654828-629c-4d19-a6cd-149c8afb9e68
+    world-name: world
+    x: 1259.8995
+    y: -31.0
+    z: 1897.78
+    yaw: 107.94464111328125
+    pitch: 17.03472900390625
+lastlocation:
+  world: c0654828-629c-4d19-a6cd-149c8afb9e68
+  world-name: world
+  x: 1412.5
+  y: -31.0
+  z: 1888.5
+  yaw: 77.763671875
+  pitch: -61.509857177734375
