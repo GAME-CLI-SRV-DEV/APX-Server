@@ -27,7 +27,7 @@ npc:
       owner:
         uuid: 00000000-0000-0000-0009-01f322b1b6b3
       spawned: true
-    traitnames: scoreboardtrait,owner,spawned,skintrait,location,inventory,type,targetable
+    traitnames: owner,scoreboardtrait,spawned,skintrait,location,type,inventory,targetable
     navigator:
       speedmodifier: 1.0
       avoidwater: false
@@ -59,7 +59,7 @@ npc:
       owner:
         uuid: 00000000-0000-0000-0009-01f322b1b6b3
       spawned: true
-    traitnames: scoreboardtrait,owner,spawned,skintrait,equipment,location,inventory,type
+    traitnames: owner,scoreboardtrait,spawned,skintrait,equipment,location,type,inventory
     navigator:
       speedmodifier: 1.0
       avoidwater: false
@@ -90,7 +90,7 @@ npc:
       owner:
         uuid: 00000000-0000-0000-0009-01f322b1b6b3
       spawned: true
-    traitnames: scoreboardtrait,owner,spawned,skintrait,equipment,location,inventory,type,targetable
+    traitnames: owner,scoreboardtrait,spawned,skintrait,equipment,location,type,inventory,targetable
     navigator:
       speedmodifier: 1.0
       avoidwater: false

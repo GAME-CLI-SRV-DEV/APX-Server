@@ -3221,3 +3221,312 @@ backpacks:
         v: 4189
         type: COAL
         amount: 64
+      '50':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EMERALD
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Synthetic Emerald","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"aqua"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"This item can be used to","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '{"text":"","extra":[{"text":"trade with Villagers","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SYNTHETIC_EMERALD"
+            }
+      '51':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COPPER_INGOT
+        amount: 64
+      '52':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: LAPIS_LAZULI
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Synthetic Sapphire","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"aqua"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"This item can be used in a","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '{"text":"","extra":[{"text":"workbench and acts like Lapis Lazuli","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SYNTHETIC_SAPPHIRE"
+            }
+      '53':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Synthetic Diamond","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"aqua"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"This item can be used in a","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '{"text":"","extra":[{"text":"workbench and acts like a normal Diamond","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SYNTHETIC_DIAMOND"
+            }
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GRAVEL
+      '36':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CALCITE
+        amount: 64
+      '42':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SHEARS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 7
+      '45':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CALCITE
+        amount: 64
+      '46':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CALCITE
+        amount: 64
+      '47':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CALCITE
+        amount: 64
+      '48':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CALCITE
+        amount: 33
+      '49':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CALCITE
+        amount: 64
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '40':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CALCITE
+        amount: 63
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '43':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 16
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Smelter''s Pickaxe","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          lore:
+          - '{"text":"","extra":[{"text":"Auto-Smelting","strikethrough":false,"obfuscated":false,"bold":true,"italic":false,"underlined":false,"color":"red"}]}'
+          - '""'
+          - '{"text":"","extra":[{"text":"Works with Fortune","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"blue"}]}'
+          enchants:
+            minecraft:unbreaking: 255
+          Damage: 13
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SMELTERS_PICKAXE"
+            }
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Pickaxe of Vein Mining","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"yellow"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"This Pickaxe will dig out","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '{"text":"","extra":[{"text":"whole Veins of Ores...","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          enchants:
+            minecraft:unbreaking: 255
+          Damage: 34
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "PICKAXE_OF_VEIN_MINING"
+            }
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: STICK
+        amount: 2
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: LEAD
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WHEAT_SEEDS
+        amount: 2
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAW_COPPER
+        amount: 14
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 49
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RAW_IRON
+        amount: 17
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBBLESTONE
+        amount: 64
+  '12':
+    size: 54
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: LEATHER
+        amount: 2
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: PLAYER_HEAD
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Energy Connector","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"yellow"}]}'
+          lore:
+          - '{"text":"","extra":[{"text":"Range: ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gray"},{"text":"6
+            blocks","italic":false,"color":"red"}]}'
+          - '""'
+          - '{"text":"","extra":[{"text":"Place this between machines","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '{"text":"","extra":[{"text":"and generators to connect them","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          - '{"text":"","extra":[{"text":"to your regulator.","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"white"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "ENERGY_CONNECTOR"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: e73d8c61-0218-3454-ae14-f15500cd6e87
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTA4NWUwOTg3NTZiOTk1YjAwMjQxNjQ0MDg5YzU1YThmOWFjZGUzNWI5YTM3Nzg1ZDVlMDU3YTkyMzYxM2IifX19
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: LAPIS_LAZULI
+        amount: 14
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOWSTONE_DUST
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Copper Dust","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"gold"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "COPPER_DUST"
+            }
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COAL
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GOLD_NUGGET
+        amount: 5
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ROTTEN_FLESH
+        amount: 14
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FLINT_AND_STEEL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 56
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: IRON_NUGGET
+        amount: 20
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WOODEN_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 1
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIRT
+        amount: 64
+      '52':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIRT
+        amount: 37

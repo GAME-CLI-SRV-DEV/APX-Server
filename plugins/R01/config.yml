@@ -1,6 +1,6 @@
 # Astatine Online
 world_setting:
-  motd: JAXPLE Stinks
+  motd: Approximaster Studios 2004 Survival
   minelist: https://minelist.kr/servers/astn.kr
   discord: https://discord.com/invite/k6dyKDsuZq
   notion: https://jaxple.notion.site/Astn-kr-e000a5d52aaa4611a63fd62629ea0f36?pvs=4
@@ -11,13 +11,13 @@ message:
   discordInvite: 없음
   serverGuideNotion: '[클릭] > 서버 플레이 가이드'
   commandServerTip: /tip
-  steelLifeTip: PVP에서 승리하면, HP를 획득합니다. [최대 60, 최소 4칸]
-  raidTip: 습격 발생시 해당 좌표 지점이 공지됩니다.
-  weaponTip: 근접무기를 양손에 들시 공격 속도가 매우 빨라 집니다.
-  explosiveTip: 모든 기존의 폭팔을 조심하세요. 크리퍼, 가스트, 위더, TNT 모든게 "매우" 위험 합니다.
+  steelLifeTip: PVP에서 승리하면, HP를 획득합니다. [최대 60, 최소 4칸, 추가 4칸]. PVP에서 죽은 사람은 굉장히 기분 나쁘겠죠.
+  raidTip: 습격 발생시 해당 좌표 지점이 채팅창에 뜹니다.
+  weaponTip: 근접 무기를 양손에 들면 공격 속도가 매우 빨라 집니다.
+  explosiveTip: 크리퍼, 가스트, 위더, TNT가 엄청 세게 폭발하니 주의하세요!
   CommandTip: /명령어
-  commandFly: /fly - 플라이는 항상 활성화 되어 있으며 필요시 입력해주세요.
-  commandHat: /hat - 손에 든 아이템을 머리에 씁니다.
+  commandFly: /fly - 비행 모드는 항상 활성화 되어 있으며 필요시 입력해주세요.
+  commandHat: /hat - 손에 든 아이템을 머리에 씁니다. 새로운 모자가 맘에 들었으면 좋겠네요.
   commandSwap: /swap - 손에 든 아이템을 다른 손으로 옮깁니다.
   commandTotem: /totem - 인벤토리의 토템을 모두 합칩니다.
   commandEnhance: /강화 - 강화창을 열거나 닫습니다.

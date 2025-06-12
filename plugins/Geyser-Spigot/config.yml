@@ -20,7 +20,7 @@ bedrock:
   # Some hosting services change your Java port everytime you start the server and require the same port to be used for Bedrock.
   # This option makes the Bedrock port the same as the Java port every time you start the server.
   # This option is for the plugin version only.
-  clone-remote-port: true
+  clone-remote-port: false
   # The MOTD that will be broadcasted to Minecraft: Bedrock Edition clients. This is irrelevant if "passthrough-motd" is set to true
   # If either of these are empty, the respective string will default to "Geyser"
   motd1: "Geyser"
@@ -32,7 +32,7 @@ bedrock:
   compression-level: 6
   # The port to broadcast to Bedrock clients with the MOTD that they should use to connect to the server.
   # DO NOT uncomment and change this unless Geyser runs on a different internal port than the one that is used to connect.
-  # broadcast-port: 42069
+  # broadcast-port: 19132
   # Whether to enable PROXY protocol or not for clients. You DO NOT WANT this feature unless you run UDP reverse proxy
   # in front of your Geyser instance.
   enable-proxy-protocol: false
@@ -59,7 +59,7 @@ remote:
   # 1) Your server supports PROXY protocol (it probably doesn't)
   # 2) You run Velocity or BungeeCord with the option enabled in the proxy's main config.
   # IF YOU DON'T KNOW WHAT THIS IS, DON'T TOUCH IT!
-  use-proxy-protocol: true
+  use-proxy-protocol: false
   # Forward the hostname that the Bedrock client used to connect over to the Java server
   # This is designed to be used for forced hosts on proxies
   forward-hostname: false
@@ -187,7 +187,7 @@ metrics:
   # If metrics should be enabled
   enabled: true
   # UUID of server, don't change!
-  uuid: 70198864-e8d4-4879-b1fc-474c326fdcc1
+  uuid: 7bbd46fd-7b90-4708-b04f-fbb7f0812e5e
 
 # ADVANCED OPTIONS - DO NOT TOUCH UNLESS YOU KNOW WHAT YOU ARE DOING!
 

@@ -26,7 +26,7 @@ ops-name-color: '9'
 nickname-prefix: ''
 
 # The maximum length allowed in nicknames. The nickname prefix is included in this.
-max-nick-length: 15
+max-nick-length: 15000
 
 # Disable this if you have any other plugin, that modifies the displayname of a user.
 change-displayname: true
@@ -476,11 +476,11 @@ command-costs:
 # Set this to a currency symbol you want to use.
 # Remember, if you want to use special characters in this document, 
 # such as accented letters, you MUST save the file as UTF-8, not ANSI.
-currency-symbol: '$'
+currency-symbol: '✪'
 
 # Set the maximum amount of money a player can have.
 # The amount is always limited to 10 trillion because of the limitations of a java double.
-max-money: 10000000000000
+max-money: 1000000000000000000000000000000000000000000000000000000000000000
 
 # Set the minimum amount of money a player can have (must be above the negative of max-money).
 # Setting this to 0, will disable overdrafts/loans completely.  Users need 'essentials.eco.loan' perm to go below 0.
